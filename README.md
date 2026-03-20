@@ -1,4 +1,4 @@
-# Live-Event-Detection-For-Peoples-Safety-Using-NLP-AND-DP
+
 # Live Event Detection for People's Safety Using NLP and Deep Learning
 
 ![IEEE Published](https://img.shields.io/badge/Published-IEEE%20Access%202024-blue)
